@@ -1223,7 +1223,7 @@
     } else {
       // Production Fallback Stream (Adaptive HLS)
       loadSource(
-        'http://51.75.127.199:3141/starsportskhel/index.m3u8',
+        'https://shariqbabu-cineflix.hf.space/api/live/proxy.m3u8?url=http://51.75.127.199:3141/starsportskhel/index.m3u8',
         'Star Sports Hindi HD',
         'm3u8'
       );
