@@ -1223,7 +1223,7 @@
     } else {
       // Production Fallback Stream (Adaptive HLS)
       loadSource(
-        'https://live.betadda.workers.dev/hls/star4b/playlis.m3u8',
+        'https://live.betadda.workers.dev/hls/star4b/playlist.m3u8',
         'Star Sports Hindi HD',
         'm3u8'
       );
